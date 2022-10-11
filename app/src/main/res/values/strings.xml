@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PercobaanMobile1</string>
+    <string name="legth">panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="result">Hitung</string>
+    <string name="calculate">Hasil</string>
+</resources>
